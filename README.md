@@ -15,7 +15,7 @@ To compile and run the web application you'll need:
 
 For equations you can choose "Easy" (1 unknown) or "Hard" (2 unknowns). Regardless of how hard it is each right answer adds 1 to score, whereas each wrong answer subtracts 1 from score. There is no persistance of score or user session, so no requirement to log in.
 
-![screenshot](../docs/assets/images/runAsWebApp.png?raw=true)
+![screenshot](docs/assets/images/runAsWebApp.png?raw=true)
 
  
 
